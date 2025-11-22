@@ -211,13 +211,3 @@ For major changes, please open an issue first.
 If you like this project, consider giving it a **star ⭐ on GitHub!**
 
 ---
-
-If you want, I can also generate:
-
-✅ API Routes
-✅ ER Diagram
-✅ Database Schema
-✅ UI Mockups
-✅ Deployment Guide
-
-Just tell me!
